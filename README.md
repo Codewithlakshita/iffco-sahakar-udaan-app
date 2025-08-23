@@ -1,21 +1,25 @@
-# IFFCO Sahakar Udaan – Mobile Application
+# IFFCO Sahakar Udaan – Drone Operations App
 
-A **mobile application for drone operators** built during my work with IFFCO, designed to assist in fertilizer management through drones.  
-I was responsible for designing and implementing **essential UI features** using React Native.
+The **IFFCO Sahakar Udaan App** is a mobile application designed for drone operators to provide **spraying services for IFFCO Nano Fertilisers** at the farm level.  
+Drone pilots can view farmer requests for spraying, process them, and track the status through the app.  
+The app also manages **Drone Assets** and their respective details allocated to Drone Sprayers.
 
-##  Key Features
-- Developed UI components with **React Native** for smoother navigation
-- Designed **intuitive and user-friendly layouts** for drone operators
-- Implemented **asset tracking and scheduling** modules
-- Applied **accessibility design principles** to ensure inclusivity
+##  My Contribution
+- Collaborated with the development team to design and implement **UI/front-end elements** using **React Native**.
+- Worked with given **Figma designs** to build clean and responsive mobile interfaces.
+- Ensured smooth navigation and consistency across screens.
 
 ##  Tech Stack
 - **Frontend:** React Native, JavaScript
-- **Other:** Accessibility, Modular UI Design
+- **Design Reference:** Figma
+- **Other:** Accessibility, Cross-Platform UI
 
 ##  Impact
 - Improved operator efficiency by simplifying navigation
 - Enabled scalable design for future feature integration
 
-## 📸 Screenshots
+##  Download App
+👉 [Get it on Google Play Store](https://play.google.com/store/apps/details?id=com.iffco_kisan_drone&hl=en_IN)
+
+##  Screenshots
 <img width="832" height="858" alt="iffco-sahakar-udaan-app" src="https://github.com/user-attachments/assets/dd26a1a4-bd86-45e2-b34c-ecfd5e4128cd" />
